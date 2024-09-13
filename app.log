@@ -1,0 +1,151 @@
+e.a.c.ContainerappsAlbumapiJavaApplication - Starting ContainerappsAlbumapiJavaApplication v0.0.1-SNAPSHOT using Java 17.0.12 with PID 208725 (/mnt/d/code/github/debug-java-agent/containerapps-albumapi-java-0.0.1-SNAPSHOT.jar started by fenzho in /mnt/d/code/github/debug-java-agent)
+e.a.c.ContainerappsAlbumapiJavaApplication - No active profile set, falling back to 1 default profile: "default"
+o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+o.a.catalina.core.StandardService - Starting service [Tomcat]
+o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3135 ms
+o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+e.a.c.ContainerappsAlbumapiJavaApplication - Started ContainerappsAlbumapiJavaApplication in 5.848 seconds (process running for 7.804)
+e.a.c.ContainerappsAlbumapiJavaApplication - Starting ContainerappsAlbumapiJavaApplication v0.0.1-SNAPSHOT using Java 17.0.12 with PID 208800 (/mnt/d/code/github/debug-java-agent/containerapps-albumapi-java-0.0.1-SNAPSHOT.jar started by fenzho in /mnt/d/code/github/debug-java-agent)
+e.a.c.ContainerappsAlbumapiJavaApplication - No active profile set, falling back to 1 default profile: "default"
+o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+o.a.catalina.core.StandardService - Starting service [Tomcat]
+o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2578 ms
+o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+e.a.c.ContainerappsAlbumapiJavaApplication - Started ContainerappsAlbumapiJavaApplication in 4.774 seconds (process running for 6.421)
+o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+e.a.c.AlbumController - come in to getAllAlbums
+e.a.c.AlbumController - hello
+e.a.c.AlbumController - come in to getAlbums
+e.a.c.AlbumController - log number: 5
+e.a.c.AlbumController - hi
+e.a.c.ContainerappsAlbumapiJavaApplication - Starting ContainerappsAlbumapiJavaApplication v0.0.1-SNAPSHOT using Java 17.0.12 with PID 208877 (/mnt/d/code/github/debug-java-agent/containerapps-albumapi-java-0.0.1-SNAPSHOT.jar started by fenzho in /mnt/d/code/github/debug-java-agent)
+e.a.c.ContainerappsAlbumapiJavaApplication - No active profile set, falling back to 1 default profile: "default"
+o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+o.a.catalina.core.StandardService - Starting service [Tomcat]
+o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2496 ms
+o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+e.a.c.ContainerappsAlbumapiJavaApplication - Started ContainerappsAlbumapiJavaApplication in 4.758 seconds (process running for 6.349)
+o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+e.a.c.AlbumController - log number: 5
+e.a.c.AlbumController - hi
+e.a.c.AlbumController - come in to getAllAlbums
+e.a.c.AlbumController - hello
+e.a.c.AlbumController - come in to getAlbums
+e.a.c.ContainerappsAlbumapiJavaApplication - Starting ContainerappsAlbumapiJavaApplication v0.0.1-SNAPSHOT using Java 17.0.12 with PID 209014 (/mnt/d/code/github/debug-java-agent/containerapps-albumapi-java-0.0.1-SNAPSHOT.jar started by fenzho in /mnt/d/code/github/debug-java-agent)
+e.a.c.ContainerappsAlbumapiJavaApplication - No active profile set, falling back to 1 default profile: "default"
+o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+o.a.catalina.core.StandardService - Starting service [Tomcat]
+o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2680 ms
+o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+e.a.c.ContainerappsAlbumapiJavaApplication - Started ContainerappsAlbumapiJavaApplication in 4.826 seconds (process running for 6.449)
+o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+e.a.c.AlbumController - log number: 6
+e.a.c.AlbumController - hi
+e.a.c.AlbumController - log number: 5
+e.a.c.AlbumController - hi
+e.a.c.AlbumController - come in to getAllAlbums
+e.a.c.AlbumController - hello
+e.a.c.AlbumController - come in to getAlbums
+e.a.c.ContainerappsAlbumapiJavaApplication - Starting ContainerappsAlbumapiJavaApplication v0.0.1-SNAPSHOT using Java 17.0.12 with PID 209123 (/mnt/d/code/github/debug-java-agent/containerapps-albumapi-java-0.0.1-SNAPSHOT.jar started by fenzho in /mnt/d/code/github/debug-java-agent)
+e.a.c.ContainerappsAlbumapiJavaApplication - No active profile set, falling back to 1 default profile: "default"
+o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+o.a.catalina.core.StandardService - Starting service [Tomcat]
+o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 5478 ms
+o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'albumController': Lookup method resolution failed
+o.a.catalina.core.StandardService - Stopping service [Tomcat]
+o.s.b.a.l.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+o.s.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'albumController': Lookup method resolution failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.checkLookupMethods(AutowiredAnnotationBeanPostProcessor.java:481)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.determineCandidateConstructors(AutowiredAnnotationBeanPostProcessor.java:351)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineConstructorsFromBeanPostProcessors(AbstractAutowireCapableBeanFactory.java:1291)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1186)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:560)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:520)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:325)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:323)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:973)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:950)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:616)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:738)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:440)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at examples.azure.containerappsalbumapijava.ContainerappsAlbumapiJavaApplication.main(ContainerappsAlbumapiJavaApplication.java:10)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:95)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+	at org.springframework.boot.loader.JarLauncher.main(JarLauncher.java:65)
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [examples.azure.containerappsalbumapijava.AlbumController] from ClassLoader [org.springframework.boot.loader.LaunchedURLClassLoader@6e5e91e4]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:483)
+	at org.springframework.util.ReflectionUtils.doWithLocalMethods(ReflectionUtils.java:320)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.checkLookupMethods(AutowiredAnnotationBeanPostProcessor.java:459)
+	... 27 common frames omitted
+Caused by: java.lang.VerifyError: Bad local variable type
+Exception Details:
+  Location:
+    examples/azure/containerappsalbumapijava/AlbumController.testConditions(I)Ljava/lang/String; @104: aload_3
+  Reason:
+    Type top (current frame, locals[3]) is not assignable to reference type
+  Current Frame:
+    bci: @104
+    flags: { }
+    locals: { 'examples/azure/containerappsalbumapijava/AlbumController', integer, 'java/time/Instant' }
+    stack: { 'java/lang/String', 'java/lang/String', 'java/lang/Class', 'examples/azure/containerappsalbumapijava/AlbumController', '[Ljava/lang/String;', '[Ljava/lang/Object;', '[Ljava/lang/Object;', integer }
+  Bytecode:
+    0000000: b800 784d b200 7ebb 0080 59b7 0081 1283
+    0000010: b600 87b2 008d 2cb6 0091 b600 87b6 0094
+    0000020: b600 992a b400 121b ba00 5100 00b9 0027
+    0000030: 0200 12b1 12b1 1201 2a07 bd00 ae59 0312
+    0000040: b253 5904 12b3 5359 0512 b453 5906 12b5
+    0000050: 5307 bd00 0359 031b bb00 b759 5d58 b700
+    0000060: ba53 5904 2c53 5905 2d53 5906 1904 5312
+    0000070: bcb8 00c2 2ab4 0012 1254 b900 2702 001b
+    0000080: ba00 5600 00a7 0003 3a06 b800 784e 2c2d
+    0000090: b800 9f3a 04b2 007e bb00 8059 b700 8112
+    00000a0: a1b6 0087 b200 8d2d b600 91b6 0087 12a3
+    00000b0: b600 8719 04b6 00a7 b600 aa12 acb6 0087
+    00000c0: b600 94b6 0099 1906 b0                 
+  Stackmap Table:
+    full_frame(@136,{Object[#1],Integer,Object[#116]},{Object[#174]})
+
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3402)
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2504)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:465)
+	... 29 common frames omitted

@@ -1,0 +1,151 @@
+e.a.c.ContainerappsAlbumapiJavaApplication - Starting ContainerappsAlbumapiJavaApplication v0.0.1-SNAPSHOT using Java 17.0.12 with PID 203876 (/mnt/d/code/github/debug-java-agent/containerapps-albumapi-java-0.0.1-SNAPSHOT.jar started by fenzho in /mnt/d/code/github/debug-java-agent)
+e.a.c.ContainerappsAlbumapiJavaApplication - No active profile set, falling back to 1 default profile: "default"
+o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+o.a.catalina.core.StandardService - Starting service [Tomcat]
+o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3373 ms
+o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+e.a.c.ContainerappsAlbumapiJavaApplication - Started ContainerappsAlbumapiJavaApplication in 6.103 seconds (process running for 7.562)
+o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+e.a.c.AlbumController - log number: 4
+e.a.c.AlbumController - hi
+e.a.c.AlbumController - log number: 4
+e.a.c.AlbumController - hi
+e.a.c.ContainerappsAlbumapiJavaApplication - Starting ContainerappsAlbumapiJavaApplication v0.0.1-SNAPSHOT using Java 17.0.12 with PID 204177 (/mnt/d/code/github/debug-java-agent/containerapps-albumapi-java-0.0.1-SNAPSHOT.jar started by fenzho in /mnt/d/code/github/debug-java-agent)
+e.a.c.ContainerappsAlbumapiJavaApplication - No active profile set, falling back to 1 default profile: "default"
+o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+o.a.catalina.core.StandardService - Starting service [Tomcat]
+o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2786 ms
+o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+e.a.c.ContainerappsAlbumapiJavaApplication - Started ContainerappsAlbumapiJavaApplication in 5.14 seconds (process running for 7.014)
+o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+e.a.c.AlbumController - log number: 4
+e.a.c.AlbumController - hi
+e.a.c.ContainerappsAlbumapiJavaApplication - Starting ContainerappsAlbumapiJavaApplication v0.0.1-SNAPSHOT using Java 17.0.12 with PID 204354 (/mnt/d/code/github/debug-java-agent/containerapps-albumapi-java-0.0.1-SNAPSHOT.jar started by fenzho in /mnt/d/code/github/debug-java-agent)
+e.a.c.ContainerappsAlbumapiJavaApplication - No active profile set, falling back to 1 default profile: "default"
+o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+o.a.catalina.core.StandardService - Starting service [Tomcat]
+o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2626 ms
+o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+e.a.c.ContainerappsAlbumapiJavaApplication - Started ContainerappsAlbumapiJavaApplication in 4.946 seconds (process running for 6.568)
+o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+e.a.c.AlbumController - log number: 4
+e.a.c.AlbumController - hi
+e.a.c.ContainerappsAlbumapiJavaApplication - Starting ContainerappsAlbumapiJavaApplication v0.0.1-SNAPSHOT using Java 17.0.12 with PID 204528 (/mnt/d/code/github/debug-java-agent/containerapps-albumapi-java-0.0.1-SNAPSHOT.jar started by fenzho in /mnt/d/code/github/debug-java-agent)
+e.a.c.ContainerappsAlbumapiJavaApplication - No active profile set, falling back to 1 default profile: "default"
+o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+o.a.catalina.core.StandardService - Starting service [Tomcat]
+o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2779 ms
+o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+e.a.c.ContainerappsAlbumapiJavaApplication - Started ContainerappsAlbumapiJavaApplication in 4.945 seconds (process running for 6.48)
+e.a.c.ContainerappsAlbumapiJavaApplication - Starting ContainerappsAlbumapiJavaApplication v0.0.1-SNAPSHOT using Java 17.0.12 with PID 204714 (/mnt/d/code/github/debug-java-agent/containerapps-albumapi-java-0.0.1-SNAPSHOT.jar started by fenzho in /mnt/d/code/github/debug-java-agent)
+e.a.c.ContainerappsAlbumapiJavaApplication - No active profile set, falling back to 1 default profile: "default"
+o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+o.a.catalina.core.StandardService - Starting service [Tomcat]
+o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2698 ms
+o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+e.a.c.ContainerappsAlbumapiJavaApplication - Started ContainerappsAlbumapiJavaApplication in 4.909 seconds (process running for 6.507)
+o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+e.a.c.AlbumController - log number: 4
+e.a.c.AlbumController - hi
+e.a.c.ContainerappsAlbumapiJavaApplication - Starting ContainerappsAlbumapiJavaApplication v0.0.1-SNAPSHOT using Java 17.0.12 with PID 204901 (/mnt/d/code/github/debug-java-agent/containerapps-albumapi-java-0.0.1-SNAPSHOT.jar started by fenzho in /mnt/d/code/github/debug-java-agent)
+e.a.c.ContainerappsAlbumapiJavaApplication - No active profile set, falling back to 1 default profile: "default"
+o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+o.a.catalina.core.StandardService - Starting service [Tomcat]
+o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 3181 ms
+o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+e.a.c.ContainerappsAlbumapiJavaApplication - Started ContainerappsAlbumapiJavaApplication in 5.651 seconds (process running for 7.155)
+o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+e.a.c.AlbumController - log number: 5
+e.a.c.AlbumController - hi
+e.a.c.AlbumController - log number: 4
+e.a.c.AlbumController - hi
+e.a.c.AlbumController - log number: 4
+e.a.c.AlbumController - hi
+e.a.c.AlbumController - log number: 5
+e.a.c.AlbumController - hi
+e.a.c.ContainerappsAlbumapiJavaApplication - Starting ContainerappsAlbumapiJavaApplication v0.0.1-SNAPSHOT using Java 17.0.12 with PID 205437 (/mnt/d/code/github/debug-java-agent/containerapps-albumapi-java-0.0.1-SNAPSHOT.jar started by fenzho in /mnt/d/code/github/debug-java-agent)
+e.a.c.ContainerappsAlbumapiJavaApplication - No active profile set, falling back to 1 default profile: "default"
+e.a.c.ContainerappsAlbumapiJavaApplication - Starting ContainerappsAlbumapiJavaApplication v0.0.1-SNAPSHOT using Java 17.0.12 with PID 206366 (/mnt/d/code/github/debug-java-agent/containerapps-albumapi-java-0.0.1-SNAPSHOT.jar started by fenzho in /mnt/d/code/github/debug-java-agent)
+e.a.c.ContainerappsAlbumapiJavaApplication - No active profile set, falling back to 1 default profile: "default"
+o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+o.a.catalina.core.StandardService - Starting service [Tomcat]
+o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2476 ms
+o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+e.a.c.ContainerappsAlbumapiJavaApplication - Started ContainerappsAlbumapiJavaApplication in 4.595 seconds (process running for 6.104)
+o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+e.a.c.AlbumController - log number: 5
+e.a.c.AlbumController - hi
+e.a.c.ContainerappsAlbumapiJavaApplication - Starting ContainerappsAlbumapiJavaApplication v0.0.1-SNAPSHOT using Java 17.0.12 with PID 206689 (/mnt/d/code/github/debug-java-agent/containerapps-albumapi-java-0.0.1-SNAPSHOT.jar started by fenzho in /mnt/d/code/github/debug-java-agent)
+e.a.c.ContainerappsAlbumapiJavaApplication - No active profile set, falling back to 1 default profile: "default"
+o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+o.a.catalina.core.StandardService - Starting service [Tomcat]
+o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2748 ms
+o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+e.a.c.ContainerappsAlbumapiJavaApplication - Started ContainerappsAlbumapiJavaApplication in 4.685 seconds (process running for 6.154)
+o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+e.a.c.AlbumController - log number: 5
+e.a.c.AlbumController - hi
+e.a.c.ContainerappsAlbumapiJavaApplication - Starting ContainerappsAlbumapiJavaApplication v0.0.1-SNAPSHOT using Java 17.0.12 with PID 207105 (/mnt/d/code/github/debug-java-agent/containerapps-albumapi-java-0.0.1-SNAPSHOT.jar started by fenzho in /mnt/d/code/github/debug-java-agent)
+e.a.c.ContainerappsAlbumapiJavaApplication - No active profile set, falling back to 1 default profile: "default"
+o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+o.a.catalina.core.StandardService - Starting service [Tomcat]
+o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.15]
+o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2686 ms
+o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+e.a.c.ContainerappsAlbumapiJavaApplication - Started ContainerappsAlbumapiJavaApplication in 5.044 seconds (process running for 6.888)
+o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+e.a.c.AlbumController - log number: 5
+e.a.c.AlbumController - hi
+e.a.c.AlbumController - come in to getAllAlbums
+e.a.c.AlbumController - hello
+e.a.c.AlbumController - come in to getAlbums
